@@ -1,4 +1,6 @@
-# Editig the QA Banch! This page will be served by Gh-Pages as a form of Quality Assurance Enviorment.
+# This is the MASTER Branch which we will treat as our DEV aka Development Branch.
+
+Features will be built branching off of this branch, then they will be merged into QA and tested, then they will be merged into PROD into our production enviorment (school server) </br>
 
 # Great Tutorials That Will Help Us Build This
 
