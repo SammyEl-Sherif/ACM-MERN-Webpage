@@ -1,5 +1,6 @@
-# Great Tutorial That Helped Me Build This
-https://www.youtube.com/watch?v=Nl54MJDR2p8&ab_channel=BrianDesign </br>
+# Great Tutorials That Will Help Us Build This
+https://www.youtube.com/watch?v=Nl54MJDR2p8&ab_channel=BrianDesign : I followed this directly to get this to this working version</br>
+GIT GRAPH - WATCH 6:08 -> 8:00 and 8:46 -> END (Note, for now just clone with HTTPS)https://www.youtube.com/watch?v=foXiEpYA08A&feature=youtu.be&ab_channel=D-I-Ry</br>
 
 # Technolgies Used
 Styling: https://styled-components.com/docs </br>
@@ -10,6 +11,10 @@ Mockup Design: https://www.figma.com/file/nt0UO7TBQ7NSDeVXubjnQD/ACM-Webpage?nod
 - Typeface: https://www.ucdenver.edu/offices/ucomm/brand-old/visual-identity/typeface
 - Brand Colors: https://www.ucdenver.edu/offices/ucomm/brand-old/visual-identity/color
 - Color Matchable SVG's: https://undraw.co/illustrations
+
+# Visual Studio Code Extensions 
+- Git Graph
+- vscode-styled-components: https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components
 ------------------------------------------------------------------------------------------------------------------------------------------------
 # File Stucture
 If you are ever confused about this repository and what a specific file is doing, reference this file structure description first to see if it clears up any confusion. Otherwise, reach out to the WebDev discord channel!<br />
