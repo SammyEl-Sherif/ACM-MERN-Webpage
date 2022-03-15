@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Roboto', sans-serif;
+
+  --clr-accent: #cfb87c; /* "CU Gold" */
+  --clr-dark: #595955; /* "Black + 1" */
+  --clr-light: #ffffff; /* "White" */
+  --clr-light-grey: #9ea1a2; /* "Black +3" */
+  --clr-black: #181818; /* "Black" */
+}
