@@ -1,6 +1,6 @@
-# This is the MASTER Branch which we will treat as our DEV aka Development Branch.
+# This is the QA Branch which we will treat as our Quality Assurance Branch.
 
-Features will be built branching off of this branch, then they will be merged into QA and tested, then they will be merged into PROD into our production enviorment (school server) </br>
+After features are merged into QA and tested, then they will be merged into PROD into our production enviorment (school server) </br>
 
 # Great Tutorials That Will Help Us Build This
 
