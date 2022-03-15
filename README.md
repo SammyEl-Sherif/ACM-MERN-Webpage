@@ -1,6 +1,6 @@
-# This is the MASTER Branch which we will treat as our DEV aka Development Branch.
+# This is the PROD Branch which we will treat as our final step.
 
-Features will be built branching off of this branch, then they will be merged into QA and tested, then they will be merged into PROD into our production enviorment (school server) </br>
+Features will be finalized when merged into this branch. These changes will be updated to our official website. </br>
 
 # Great Tutorials That Will Help Us Build This
 
